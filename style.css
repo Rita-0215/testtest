@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+hr{
+    border-top: 10px dotted black;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin: 30px 0;
+}
+
+.default{
+    padding: 50px 100px;
+    color: black;
+    height: auto;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: black;
+}
+
+.me{
+    background-color: antiquewhite;
+}
+
+.edu{
+    background-color: azure;
+}
+
+.skill{
+    background-color: beige;
+}
+
+.person{
+    background-color: bisque;
+}
+
+.lang{
+    background-color: rgb(255, 225, 243);
+}
+
+img{
+    height: 500px;
+    display: float;
+    float: right;
+}
+
+h2{
+    position: sticky;
+    top: 0;
+}
